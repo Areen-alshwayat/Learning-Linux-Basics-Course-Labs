@@ -8,9 +8,15 @@
 
 
 ## External Commands
-
 - **`ls`**: List directory contents.
 - **`grep`**: Search text using patterns.
 - **`find`**: Search for files in a directory hierarchy.
 - **`tar`**: Archive files.
 - **`curl`**: Transfer data from or to a server.
+  
+
+## How to Check if a Command is Internal or External
+ -To determine whether a command is internal (built-in) or external, you can use the type command:
+- **`type`**: command_name
+
+
