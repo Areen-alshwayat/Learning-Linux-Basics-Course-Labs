@@ -6,7 +6,6 @@
 - **`exit`**: Exit the shell session.
 - **`read`**: Read input from the user.
 
-
 ## External Commands
 - **`ls`**: List directory contents.
 - **`grep`**: Search text using patterns.
@@ -18,5 +17,24 @@
 ## How to Check if a Command is Internal or External
  -To determine whether a command is internal (built-in) or external, you can use the type command:
 - **`type`**: command_name
+  
+# Basic Linux Commands
+
+This section provides an overview of basic Linux commands commonly used for system navigation and management.
+
+## File and Directory Operations
+
+### `ls`
+- **Description**: Lists files and directories in the current directory.
+- **Usage**:
+  ```bash
+  ls
+
+### `cd`
+- **Description**: Changes the current directory.
+- **Usage**:
+  ```bash
+  cd
+
 
 
