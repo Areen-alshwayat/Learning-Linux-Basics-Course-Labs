@@ -5,9 +5,12 @@
 - **`set`**: Set shell options or display shell variables.
 - **`exit`**: Exit the shell session.
 - **`read`**: Read input from the user.
-## Examples of Internal Commands
 
-```bash
-cd /home/user    # Change directory to /home/user
-echo "Hello"     # Print "Hello" to the terminal
-pwd              # Print the current working directory
+
+## External Commands
+
+- **`ls`**: List directory contents.
+- **`grep`**: Search text using patterns.
+- **`find`**: Search for files in a directory hierarchy.
+- **`tar`**: Archive files.
+- **`curl`**: Transfer data from or to a server.
