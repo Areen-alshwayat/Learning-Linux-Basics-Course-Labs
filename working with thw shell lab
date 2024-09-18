@@ -1,0 +1,18 @@
+ #!/bin/bash
+
+# Method 1: Using pwd (if you are in the home directory)
+echo "Using pwd to show the current directory:"
+pwd
+
+# Method 2: Using echo $HOME to display the home directory
+echo -e "\nUsing echo \$HOME to display the home directory:"
+echo $HOME
+
+# Method 3: Using cd ~ to navigate to home and then using pwd to show it
+echo -e "\nUsing cd ~ to navigate to home and then pwd:"
+cd ~
+pwd
+
+
+
+          
