@@ -30,11 +30,19 @@ This section provides an overview of basic Linux commands commonly used for syst
   ```bash
   ls
 
-### `cd`
+### `cd`  
 - **Description**: Changes the current directory.
 - **Usage**:
   ```bash
-  cd
+  cd /path/to/directory
+
+ ### `pwd`  Print Working Directory
+- **Description**: Display the current working directory
+- **Usage**:
+  ```bash
+  pwd 
+
+
 
 
 
